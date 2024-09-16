@@ -4,9 +4,10 @@ This Flutter project implements a product listing screen using the [Fake Store A
 
 ## Screenshots
 
-<img src="https://github.com/hussendev/Elevated_project/raw/main/assets/screenshot/1.png" width="300">
 
-<img src="https://github.com/hussendev/Elevated_project/raw/main/assets/screenshot/2.png" width="300">
+
+![image](https://github.com/user-attachments/assets/27e9af28-4d49-4dc5-adea-47bac4f9e838)
+
 
 ## Features
 

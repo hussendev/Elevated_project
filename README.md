@@ -1,6 +1,6 @@
 # Elevated Project
 
-This Flutter project implements a product listing screen using the [Fake Store API](https://fakestoreapi.com/products). It demonstrates the use of Clean Architecture with BLoC pattern for state management.
+This Flutter project implements a product listing screen using the [Fake Store API](https://fakestoreapi.com/products). It demonstrates the use of clean architecture with BLoC patterns in state management.
 
 ## Screenshots
 
@@ -14,7 +14,7 @@ This Flutter project implements a product listing screen using the [Fake Store A
 - Fetches and displays a list of products from the Fake Store API
 - Implements Clean Architecture
 - Uses BLoC pattern for state management
-- Utilizes Dio for API calls
+- Utilizes HTTP for API calls
 - Implements dependency injection using get_it
 - Uses Repository pattern for data handling
 
